@@ -7,6 +7,7 @@ console.log("do sometin on load")
 }
 
 export class SnackController{
+  
   constructor(){
     drawSnacks()
   }
